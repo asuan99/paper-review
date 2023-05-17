@@ -8,4 +8,5 @@
 |23/03/13|AI accelerator (about FPGA based) |[review](/Reviews/03_13.pdf)|
 |23/04/11|Model Compression (with hardware codesign) |[review](/Reviews/model_compression.pdf)|
 |23/05/02|AI Compiler (MLIR based & sparsity aware) |[review](/Reviews/ai_compiler.pdf)|
-|23/05/08|Exo lang | [review](/Reviews/Exo_lang.pdf)
+|23/05/08|Exo lang | [review](/Reviews/Exo_lang.pdf)|
+|23/05/16|Scheduling for AI | [review](/Reviews/Scheduling_for_ai.pdf)|
