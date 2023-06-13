@@ -13,7 +13,7 @@
 |23/06/09|Resource Efficiency for AI | [review](/Reviews/06_09.pdf)
 
 
-# paper list
+# Paper List
 
 |Title|Link|keyword|published|presentation|
 |:---------:|:-----:|:----:|:------:|:---:|
