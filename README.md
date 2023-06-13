@@ -10,6 +10,7 @@
 |23/05/02|AI Compiler (MLIR based & sparsity aware) |[review](/Reviews/ai_compiler.pdf)|
 |23/05/08|Exo lang | [review](/Reviews/Exo_lang.pdf)|
 |23/05/16|Scheduling for AI | [review](/Reviews/Scheduling_for_ai.pdf)|
+|23/06/09|Resource Efficiency for AI | [review](/Reviews/06_09.pdf)
 
 
 # paper list
