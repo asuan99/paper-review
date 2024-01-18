@@ -1,4 +1,4 @@
-# papaer-review
+# paper-review
 |Date|Paper|Links|
 |:----:|:-------:|:----:|
 |21/04/26|Generating Text with Deep Reinforcement Learning|[paper](https://arxiv.org/abs/1510.09202)<br>[review](/Reviews/Generating_Text_with_Deep_Reinforcement_Learning_.pdf)|
